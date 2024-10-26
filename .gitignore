@@ -1,2 +1,6 @@
 /rust/target
 venv
+/*.exe
+/*.dll
+/*.class
+/*.jar
