@@ -1,6 +1,7 @@
 /rust/target
 venv
-/*.exe
-/*.dll
-/*.class
-/*.jar
+# Ignore .exe, .dll, .class, and .jar files in any folder
+*.exe
+*.dll
+*.class
+*.jar
